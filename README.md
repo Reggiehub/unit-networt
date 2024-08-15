@@ -25,9 +25,9 @@ This repository contains a Node.js application that automates transactions on th
 3. **Prepare private keys:**
 
    - Create or edit `privateKeys.json` to include your Ethereum private keys as an array of strings. Each private key should be enclosed in double quotes.
+   -    # Edit script
 
    ```
-      # Edit script
       nano privateKeys.json
    ```
 
